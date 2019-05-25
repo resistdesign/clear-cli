@@ -1,5 +1,5 @@
 {
-  "name": "cls",
+  "name": "cls-cli",
   "version": "1.0.0",
   "description": "Clear the terminal cross-platform",
   "license": "MIT",
