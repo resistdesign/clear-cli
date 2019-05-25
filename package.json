@@ -13,13 +13,12 @@
   "engines": {
     "node": ">=0.10"
   },
-  "scripts": {
-    "test": "xo && ava"
-  },
+  "scripts": {},
   "files": [
     "cli.js"
   ],
   "keywords": [
+    "cls",
     "cli-app",
     "cli",
     "clear",
@@ -35,11 +34,7 @@
     "ansi-escapes": "^1.2.0",
     "meow": "^3.7.0"
   },
-  "devDependencies": {
-    "ava": "*",
-    "execa": "^0.2.2",
-    "xo": "*"
-  },
+  "devDependencies": {},
   "bugs": {
     "url": "https://github.com/resistdesign/clear-cli/issues"
   },
