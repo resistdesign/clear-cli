@@ -1,16 +1,14 @@
 {
-  "name": "clear-cli",
-  "version": "1.0.1",
+  "name": "cls",
+  "version": "1.0.0",
   "description": "Clear the terminal cross-platform",
   "license": "MIT",
-  "repository": "sindresorhus/clear-cli",
-  "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resistdesign/clear-cli.git"
   },
   "bin": {
-    "clear": "cli.js"
+    "cls": "cli.js"
   },
   "engines": {
     "node": ">=0.10"
@@ -41,5 +39,11 @@
     "ava": "*",
     "execa": "^0.2.2",
     "xo": "*"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/resistdesign/clear-cli/issues"
+  },
+  "homepage": "https://github.com/resistdesign/clear-cli#readme",
+  "main": "cli.js",
+  "author": "Resist Design"
 }
