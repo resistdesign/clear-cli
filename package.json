@@ -1,6 +1,6 @@
 {
   "name": "@resistdesign/cls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clear the terminal cross-platform",
   "license": "MIT",
   "bin": {
