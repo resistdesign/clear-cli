@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "Clear the terminal cross-platform",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/resistdesign/clear-cli.git"
-  },
   "bin": {
     "cls": "cli.js"
   },
@@ -35,10 +31,14 @@
     "meow": "^3.7.0"
   },
   "devDependencies": {},
-  "bugs": {
-    "url": "https://github.com/resistdesign/clear-cli/issues"
-  },
-  "homepage": "https://github.com/resistdesign/clear-cli#readme",
   "main": "cli.js",
-  "author": "Resist Design"
+  "author": "Resist Design",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resistdesign/cls.git"
+  },
+  "bugs": {
+    "url": "https://github.com/resistdesign/cls/issues"
+  },
+  "homepage": "https://github.com/resistdesign/cls#readme"
 }
