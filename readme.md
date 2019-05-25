@@ -1,4 +1,4 @@
-# clear-cli [![Build Status](https://travis-ci.org/sindresorhus/clear-cli.svg?branch=master)](https://travis-ci.org/sindresorhus/clear-cli)
+# cls
 
 > Clear the terminal cross-platform
 
@@ -6,20 +6,20 @@
 ## Install
 
 ```
-$ npm install --global clear-cli
+$ npm i -g cls
 ```
 
 
 ## Usage
 
 ```
-$ clear --help
+$ cls --help
 
   Usage
-    $ clear
+    $ cls
 ```
 
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT
